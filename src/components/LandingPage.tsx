@@ -32,7 +32,9 @@ export default function Home() {
       <section>
         <div className="tw-flex tw-h-screen tw-justify-center tw-items-center">
           <div className="tw-flex-col tw-mt-12">
-            <p className="tw-text-2xl  dark:text-violet-40">Hey, I'm Aman, a</p>
+            <p className="tw-text-2xl  dark:text-violet-40">
+              Hey, I&apos;m Aman, a
+            </p>
             <h1 className="tw-text-4xl tw-mt-4 dark:text-violet-40 ">
               Full Stack Developer
             </h1>
