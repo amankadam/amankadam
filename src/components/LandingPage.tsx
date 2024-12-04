@@ -12,7 +12,7 @@ export default function Home() {
         <div>
           <a
             className="tw-cursor-pointer"
-            href="./AMAN_KADAM_RESUME_SDE2.pdf"
+            href="./AMAN_KADAM_RESUME_SDE_2.pdf"
             download
           >
             <span className="tw-p-4">Resume</span>
